@@ -2,7 +2,7 @@
   "name": "simplefolio",
   "version": "1.0.0",
   "description": "Portfolio website",
-  "main": "webpack.common.js",
+  "private": true,
   "directories": {
     "example": "examples"
   },
